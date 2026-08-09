@@ -26,6 +26,16 @@ Pull the lamp's hanging cord down with your mouse or finger to turn on the lamp 
 - CSS3
 - JavaScript
 
+## 👨‍💻 Author
+
+**Sahiru Sheyan**
+
+GitHub: **@sahiru-03**
+
+## ⭐ Support
+
+If you like this project, consider giving the repository a ⭐ on GitHub!
+
 ## 📂 Project Structure
 
 ```text
@@ -36,12 +46,3 @@ Lamp-login-animation/
 ├── script.js
 └── README.md
 
-## 👨‍💻 Author
-
-**Sahiru Sheyan**
-
-GitHub: **@sahiru-03**
-
-## ⭐ Support
-
-If you like this project, consider giving the repository a ⭐ on GitHub!
