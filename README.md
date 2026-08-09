@@ -35,3 +35,13 @@ Lamp-login-animation/
 ├── style.css
 ├── script.js
 └── README.md
+
+## 👨‍💻 Author
+
+**Sahiru Sheyan**
+
+GitHub: **@sahiru-03**
+
+## ⭐ Support
+
+If you like this project, consider giving the repository a ⭐ on GitHub!
